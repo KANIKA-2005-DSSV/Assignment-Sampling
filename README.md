@@ -63,15 +63,21 @@ Five classification models were trained and evaluated:
 
 ---
 
-## 🏆 Best Performing Combination
+##  Best Performing Combination
 - **Best Sampling Technique:** Random Oversampling
 - **Best Models:** Decision Tree, Random Forest, Gradient Boosting
 - **Highest Accuracy:** 99.35%
 
 ---
 
+
 ##  Visualization
 A heatmap was generated to visualize model performance across sampling techniques.
+
+![Sampling Techniques Heatmap](model_accuracy_heatmap.png)
+
+The heatmap shows that Random Oversampling and Bootstrap Sampling consistently achieve higher accuracy across most machine learning models.
+
 
 ---
 
